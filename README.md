@@ -1,3 +1,5 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
+
 ## What you will make
 
 Ever been lost for words? In this resource you will write a Python script to generate insults, Elizabethan-style.
